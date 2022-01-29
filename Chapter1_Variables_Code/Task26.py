@@ -1,5 +1,13 @@
 #!/usr/bin/python3
 
+'''Using the "clever" method of working with for display messages of the form:
+The leader of "...project name..." is ...the leader's name...
+The leader of "...project name..."  started ...project start date is ...leader's name...
+
+Using the "clever" combination of enumerate and zip - add to the message
+additionally the project sequence number starting from 1:
+...sequence number... - The leader of "...project name..."
+started ...project start date... is ...name of leader...'''
 
 print("Case 1")
 projects = ['Brexit', 'Nord Stream', 'US Mexico Border']

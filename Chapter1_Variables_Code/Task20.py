@@ -1,5 +1,15 @@
 #!/usr/bin/python3
 
+'''In this task, save the contents of several web pages to disk. When the download is complete, display a success message. However, if there is an error, display an error message and break the loop.
+
+For each page of pages:
+-store in the path variable the path to the file formed by combining data_dir, the name of the page retrieved from pages, and ".html"
+-Using the urllib.request.urlretrieve(<page address>, <path to file> function), save the page to disk
+-inside the for loop add a try/except block, which in case of an error will terminate the loop by displaying an error message
+
+Translated with www.DeepL.com/Translator (free version)'''
+
+
 import os
 import urllib.request
 

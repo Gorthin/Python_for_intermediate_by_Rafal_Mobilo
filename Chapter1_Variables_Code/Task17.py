@@ -1,4 +1,12 @@
 #!/usr/bin/python3
+
+'''Write the following if statement in simplified form.
+
+Write a program that:
+-writes in the variable today_weekday the name of today's day of the week
+-based on the first verse of the song, use a series of if/elif/.../else statements to determine what you should do today
+-Reproduce the above program using the simplified syntax of the if statement'''
+
 import datetime as dt
 
 
