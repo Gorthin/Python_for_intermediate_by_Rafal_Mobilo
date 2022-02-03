@@ -150,3 +150,20 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
+/Chapter4_Functions_scenarios/file_create.txt
+/Chapter4_Functions_scenarios/file_delete.txt
+/Chapter5_Classes/all_cakes.csv
+/Chapter5_Classes/all_cakes.html
+/Chapter5_Classes/cake01.bakery
+/Chapter5_Classes/cake01.csv
+/Chapter5_Classes/cake01.html
+/Chapter5_Classes/cake02.bakery
+/Chapter5_Classes/Chocolade_Muffin.csv
+/Chapter5_Classes/Chocolade_Muffin.html
+/Chapter5_Classes/Cocoa_waffle.csv
+/Chapter5_Classes/Cocoa_waffle.html
+/Chapter5_Classes/Super_Sweet_Maringue.csv
+/Chapter5_Classes/Super_Sweet_Maringue.html
+/Chapter5_Classes/Vanilla_Cake.csv
+/Chapter5_Classes/Vanilla_Cake.html
+/Chapter7_Error_handling/spis.html
